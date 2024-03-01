@@ -2,7 +2,7 @@
 module "vpc" {
   source = "terraform-aws-modules/vpc/aws"
 
-  name = "jenkins-vpc"
+  name = "eks-vpc"
   cidr = var.vpc_cdr
 
   azs                  = data.aws_availability_zones.azs.names
