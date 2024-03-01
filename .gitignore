@@ -1,0 +1,3 @@
+EKS/.terraform/*
+JenkinsServer/.terraform/*
+.DS_Store
