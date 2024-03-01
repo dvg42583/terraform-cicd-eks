@@ -1,3 +1,5 @@
 EKS/.terraform/*
 JenkinsServer/.terraform/*
 .DS_Store
+JenkinsServer/.terraform.lock.hcl
+EKS/.terraform.lock.hcl
